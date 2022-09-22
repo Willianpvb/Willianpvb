@@ -1,6 +1,6 @@
 # 👋 Iae, Eu sou Willian Pereira 
 Estou no inicio da minha carreira na área de informática e busco a primeira oportunidade para trabalhar na área
-- 👀 Estou interessado em desenvolvimento web, pois no momento é o que tenho melhor noção do que consigo fazer.
+- 👀 Estou interessado em desenvolvimento web.
 - 🌱 Eu estou atualmente fazendo o curso de ADS.
 - Instagram: willianpvb 
 - E-mail: willianpereira4545@gmail.com
